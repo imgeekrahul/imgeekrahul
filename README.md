@@ -13,9 +13,11 @@ Let's connect with ❤️
 <p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imgeekrahul)
+<br />
 Co-Founder and Chief Product Officer at [One24](https://one24store.com/)
 
 I'm a tech enthusiast & an open-source contributor and always be open to utilise my skills and abilities to create something new which can make mark on the world.
+<br />
 "Always be open to learn new skills."
 
 ## ⚡️ Technologies:
