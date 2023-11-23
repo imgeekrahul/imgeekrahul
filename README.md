@@ -1,15 +1,15 @@
-## Hello, there <img src="/icon/wave.gif" width="30px">
+## <p align="center">Hello, there <img src="/icon/wave.gif" width="30px"></p>
 # Glad seeing you here!!
 
 ##### I'm <b>Rahul Ranjan</b>
 Let's connect with ❤️
 
 <p align="left">
-<a href="https://www.facebook.com/profile.php?id=100012308762040"><img src="/icon/Facebook.png" width="30px" /></a>
-<a href="https://www.instagram.com/r_ranjan124/"><img src="/icon/instagram.png" width="30px" /></a>
-<a href="mailto:hackrahul124@gmail.com"><img src="/icon/email.png" width="30" /></a>
-<a href="https://www.linkedin.com/in/imgeekrahul"><img src="/icon/linkedin.png" width="30px" /></a>
-<a href="https://github.com/imgeekrahul"><img src="/icon/github.png" width="30px" /></a>
+<a href="https://www.facebook.com/profile.php?id=100012308762040" target="blank"><img src="/icon/Facebook.png" width="30px" /></a>
+<a href="https://www.instagram.com/r_ranjan124/" target="blank"><img src="/icon/instagram.png" width="30px" /></a>
+<a href="mailto:hackrahul124@gmail.com" target="blank"><img src="/icon/email.png" width="30" /></a>
+<a href="https://www.linkedin.com/in/imgeekrahul" target="blank"><img src="/icon/linkedin.png" width="30px" /></a>
+<a href="https://github.com/imgeekrahul" target="blank"><img src="/icon/github.png" width="30px" /></a>
 <p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imgeekrahul)
