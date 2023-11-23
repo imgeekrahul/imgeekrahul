@@ -9,7 +9,7 @@ Let's connect with ❤️
 <a href="https://www.instagram.com/r_ranjan124/"><img src="/icon/instagram.png" width="30px" /></a>
 <a href="mailto:hackrahul124@gmail.com"><img src="/icon/email.png" width="30" /></a>
 <a href="https://www.linkedin.com/in/imgeekrahul"><img src="/icon/linkedin.png" width="30px" /></a>
-<a href="https://github.com/imgeekrahul"><img src="/icon/Github-icon.png" width="30px" /></a>
+<a href="https://github.com/imgeekrahul"><img src="/icon/github.png" width="30px" /></a>
 <p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=imgeekrahul)
